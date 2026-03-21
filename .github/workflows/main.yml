@@ -30,7 +30,7 @@ jobs:
           path: |
             C:\9Hits\hits.zip
             C:\9Hits\9hits-app-state.zip
-          key: zips-v1
+          key: zips-v2
 
       # ⬇️ скачивание только при отсутствии
       - name: Download hits.zip if not cached
